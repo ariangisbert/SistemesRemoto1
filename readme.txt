@@ -1,3 +1,3 @@
 Leeme 
 
-Nueva funcionalidad parte 1
+Nueva funcionalidad finalizada.
